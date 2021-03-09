@@ -360,5 +360,6 @@ pre {
 	.navbar ul {
 		padding: 10px;
 		background: rgba(0, 0, 0, 0.1);
+		border-radius: 4px;
 	}
 }
