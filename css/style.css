@@ -85,6 +85,10 @@ pre {
 	justify-content: space-between;
 }
 
+.navbar .logo {
+	font-weight: bold;
+}
+
 /* Showcase */
 
 .showcase {
